@@ -6,3 +6,11 @@
 ### IMPORTANT
 
 This modpack does *NOT* come with the shaderpacks needed to fully experience this pack.
+
+See [HDR Shaderpacks](https://github.com/rrtt217/Minecraft-HDR-Mod/wiki/HDR-Shaderpacks)for shaders compatible with HDR Mod.
+
+Currently, these shaders are supported with the HDR mod:
+
+    *Bliss
+    *Complimentary - Unbound/Reimagined
+    *Photon
