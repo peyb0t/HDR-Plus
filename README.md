@@ -14,3 +14,6 @@ See [HDR Shaderpacks](https://github.com/rrtt217/Minecraft-HDR-Mod/wiki/HDR-Shad
     Bliss
     Complimentary - Unbound/Reimagined
     Photon
+    ARTShade
+    IterationRP
+    Revelation
